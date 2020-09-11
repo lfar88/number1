@@ -1,5 +1,5 @@
 # number1
 
-##editing the file
+##Editing the file
 
-testing testing
+testing testing.
